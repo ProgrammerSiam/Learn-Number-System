@@ -22,9 +22,8 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
 
 ## 5. Resources 📚
 
----
 
-## 📖 Blogs to Explore
+#### 📖 Blogs to Explore
 
 1. **[Introduction to Number Systems](https://example.com/intro-to-number-systems)**
 
@@ -40,9 +39,9 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
    - Explore how number systems are used in programming and computer science.
    - 📝 _Key takeaway_: Focuses on binary operations in algorithms.
 
----
 
-## 🌐 Additional Resources
+
+#### 🌐 Additional Resources
 
 - **[Interactive Number System Converter](https://example.com/interactive-converter)**
 
@@ -53,6 +52,14 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
 
 💡 **Have a blog or resource to suggest?** Feel free to contribute by submitting a pull request or reaching out to us!
 
+
+
+#### Tools:
+- Online converters: [RapidTables](https://www.rapidtables.com/convert/number/).
+- Programming languages: Python (e.g., `bin()`, `hex()` functions).
+- Circuit simulators: Logisim or similar tools.
+
+
 ---
 
 ## ✨ Notes
@@ -61,21 +68,9 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
 
   - Understanding number systems is essential for coding, computer science, and logical problem-solving.
 
-- **Recommended Approach**:
-  1.  Start with the basics (decimal and binary systems).
-  2.  Practice conversion techniques.
-  3.  Explore real-world applications.
 
 ---
 
-### Tools:
-- Online converters: [RapidTables](https://www.rapidtables.com/convert/number/).
-- Programming languages: Python (e.g., `bin()`, `hex()` functions).
-- Circuit simulators: Logisim or similar tools.
-
-
-
----
 
 ### Happy Learning! 🚀
 Feel free to revisit this guide as you progress. Stay curious and practice consistently for the best results. Good luck on your journey to mastering number systems! ✨
