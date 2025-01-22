@@ -25,32 +25,28 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
 
 #### 📖 Blogs to Explore
 
-1. **[Introduction to Number Systems](https://example.com/intro-to-number-systems)**
-
-   - A beginner-friendly guide to understanding the basics of number systems.
-   - 📝 _Key takeaway_: Covers binary, decimal, and hexadecimal systems.
-
-2. **[Number System Conversion Techniques](https://example.com/number-system-conversions)**
-
-   - Learn how to convert between different number systems with step-by-step examples.
-   - 📝 _Key takeaway_: Includes practice problems for binary-to-decimal conversion.
-
-3. **[Applications of Number Systems in Coding](https://example.com/number-systems-in-coding)**
-   - Explore how number systems are used in programming and computer science.
-   - 📝 _Key takeaway_: Focuses on binary operations in algorithms.
+1. **[Number System and Base Conversions](https://www.geeksforgeeks.org/number-system-and-base-conversions/)**
 
 
+2. **[What is Number System in Maths?](https://byjus.com/maths/number-system/)**
 
-#### 🌐 Additional Resources
 
-- **[Interactive Number System Converter](https://example.com/interactive-converter)**
+3. **[Number Systems](https://www.javatpoint.com/number-systems)**
 
-  - Experiment with converting numbers between various systems online.
 
-- **[Number Systems Cheat Sheet](https://example.com/cheat-sheet)**
-  - Downloadable PDF for quick reference to formulas and rules.
+4. **[Basics of Computers - Number System](https://www.tutorialspoint.com/basics_of_computers/basics_of_computers_number_system.htm)**
+
+
+5. **[Number System in Computer Organization: Its Types with Examples](https://www.ccbp.in/blog/articles/number-system-in-computer-organization#conclusion)**
+
+
+6. **[Understanding The Different Number Systems](https://medium.com/artificialis/understanding-the-different-number-systems-de2143512642)**
+
+
+6. **[What is the importance of the number system?](https://www.geeksforgeeks.org/what-is-the-importance-of-the-number-system/)**
 
 💡 **Have a blog or resource to suggest?** Feel free to contribute by submitting a pull request or reaching out to us!
+
 
 
 
