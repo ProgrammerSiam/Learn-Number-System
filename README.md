@@ -17,8 +17,12 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
 - A curious mind 🤔
 - Basic knowledge of numbers (optional)
 
+---
+
+
 ## 5. Resources 📚
 
+---
 
 ## 📖 Blogs to Explore
 
@@ -47,6 +51,8 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
 - **[Number Systems Cheat Sheet](https://example.com/cheat-sheet)**
   - Downloadable PDF for quick reference to formulas and rules.
 
+💡 **Have a blog or resource to suggest?** Feel free to contribute by submitting a pull request or reaching out to us!
+
 ---
 
 ## ✨ Notes
@@ -61,10 +67,6 @@ Welcome to the ultimate guide on mastering **Number Systems**! Unlock the secret
   3.  Explore real-world applications.
 
 ---
-
-💡 **Have a blog or resource to suggest?** Feel free to contribute by submitting a pull request or reaching out to us!
-
-
 
 ### Tools:
 - Online converters: [RapidTables](https://www.rapidtables.com/convert/number/).
